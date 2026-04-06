@@ -1,0 +1,34 @@
+{
+  "games_played": 46,
+  "total_food_eaten": 178,
+  "high_score": 23,
+  "best_by_mode": {
+    "ai_demo": 18,
+    "classic": 0,
+    "timed_solo": 23,
+    "endless_solo": 0,
+    "coop": 16,
+    "local_duel": 0,
+    "versus_ai": 12,
+    "strategy_mode": 12
+  },
+  "mode_games": {
+    "timed_solo": 1,
+    "strategy_mode": 14,
+    "versus_ai": 1,
+    "coop": 1
+  },
+  "wins": {
+    "player_one": 12,
+    "player_two": 5,
+    "ai": 6,
+    "coop_clears": 0
+  },
+  "item_usage": {
+    "phase": 13,
+    "freeze_others": 10,
+    "haste": 18,
+    "bounce": 9,
+    "magnet": 12
+  }
+}
